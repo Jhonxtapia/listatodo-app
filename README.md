@@ -1,45 +1,48 @@
-# To-Do List
+
+# Lista de Tareas
 
 ## Descripción
 
-Este proyecto es una aplicación de To-Do List diseñada para ayudar a los usuarios a gestionar sus tareas diarias de manera eficiente. La aplicación permite a los usuarios agregar, editar, eliminar y marcar tareas como completadas. Con una interfaz intuitiva y funcionalidad robusta, esta To-Do List es ideal para mantener el seguimiento de tus responsabilidades y mejorar la productividad.
+Esta aplicación de Lista de Tareas está diseñada para ayudar a los usuarios a gestionar de manera efectiva sus responsabilidades diarias. Permite agregar, editar, eliminar y marcar tareas como completadas. Con una interfaz intuitiva y una funcionalidad sólida, esta aplicación es perfecta para mantener el seguimiento de tus actividades y mejorar tu productividad.
 
 ## Características
 
-- **Agregar Tareas**: Permite a los usuarios añadir nuevas tareas a su lista.
-- **Editar Tareas**: Los usuarios pueden modificar las descripciones de las tareas existentes.
+- **Añadir Tareas**: Los usuarios pueden agregar nuevas tareas a su lista.
+- **Modificar Tareas**: Permite a los usuarios ajustar las descripciones de las tareas ya existentes.
 - **Eliminar Tareas**: Facilita la eliminación de tareas que ya no son necesarias.
-- **Marcar Tareas Completadas**: Los usuarios pueden marcar las tareas como completadas para llevar un registro de lo que han logrado.
-- **Interfaz Amigable**: Diseño intuitivo y fácil de usar que mejora la experiencia del usuario.
+- **Marcar Tareas Completadas**: Los usuarios pueden marcar las tareas como completadas para llevar un registro de sus logros.
+- **Interfaz Intuitiva**: Diseño fácil de usar que optimiza la experiencia del usuario.
 
 ## Uso
 
-1. Abre tu aplicacion de Android Studio y ve al boton de play.
-2. Usa los botones e inputs proporcionados para agregar, editar, eliminar y marcar tareas como completadas.
+1. Abre tu aplicación en Android Studio y selecciona el botón de reproducción.
+2. Utiliza los botones e inputs disponibles para agregar, editar, eliminar y marcar tareas como completadas.
 
 ## Tecnologías Utilizadas
 
 - **Frontend**: Kotlin
 - **Backend**: Kotlin
 
-
 ## Contribuciones
 
-Las contribuciones son bienvenidas. Si deseas contribuir, por favor sigue estos pasos:
+Las aportaciones son bienvenidas. Para contribuir, sigue estos pasos:
 
-1. Haz un fork del repositorio.
+1. Realiza un fork del repositorio.
 2. Crea una nueva rama (`git checkout -b feature/nueva-caracteristica`).
-3. Realiza los cambios necesarios y haz commit (`git commit -m 'Agregar nueva característica'`).
-4. Empuja tus cambios a la rama (`git push origin feature/nueva-caracteristica`).
+3. Realiza los cambios y guarda con commit (`git commit -m 'Añadir nueva característica'`).
+4. Envía tus cambios a la rama (`git push origin feature/nueva-caracteristica`).
 5. Abre un Pull Request.
 
 ## Licencia
 
-Este proyecto está bajo la licencia MIT. Consulta el archivo `LICENSE` para más detalles.
+Este proyecto se encuentra bajo la licencia MIT. Consulta el archivo `LICENSE` para más detalles.
 
 ## Contacto
 
-Para cualquier consulta o sugerencia, puedes contactarme en [sanchezjosue2001@gmail.com](mailto:sanchezjosue2001@gmail.com).
+Para cualquier consulta o sugerencia, puedes ponerte en contacto conmigo en 
 
-## Videos explicativo de como funciona la app
-https://miucateciedu-my.sharepoint.com/:f:/g/personal/20210882_miucateci_edu_do/ErlUZiofrLZDnIa2da9U7VgBq1lav0Hj4aUAEkKb2uK9pw?e=kKnAPx
+## Videos explicativos sobre el funcionamiento de la aplicación
+
+---
+
+Jhoan Tapia 20191060
